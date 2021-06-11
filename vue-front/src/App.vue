@@ -1,7 +1,7 @@
 <template>
 
   <div>
-    <TopBar/>
+<!--    <TopBar/>-->
     <header id="header" class="d-flex align-items-center fixed-top">
       <div class="container d-flex justify-content-between">
         <div id="logo">
@@ -36,7 +36,7 @@ import TopBar from "@/components/TopBar";
 export default {
   components: {
     TopMenu,
-    TopBar
+    // TopBar
   }
 }
 </script>
