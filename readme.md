@@ -27,9 +27,9 @@ Implementation, development
 - social network
 - CRM 
 - different assignments of your company
-  We focus on high  professionalism and quality, combined with the latest technologies
+  <p> We focus on high  professionalism and quality, combined with the latest technologies
 on the market. It's extremely important for us to deliver a strong product, that
 creates value and meaning for our customers. Our approach to work is therefore quietly
-simple: our software solutions optimize business processes and minimize costs.  
+simple: our software solutions optimize business processes and minimize costs.  </p>
   
 
