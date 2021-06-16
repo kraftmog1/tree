@@ -6,10 +6,10 @@ FronEnd - is Vue and Bootstrap 5.
 - cd /var/www 
 - git clone https://github.com/kraftmog1/tree.git
 ### front
-We have to check lastest version of node and npm.
+We have to check the lastest version of node and npm.
 - node -v
 - npm -v 
-Go front directory.
+Go to front directory.
 - cd tree/vue-front
 Install node dependencies by npm
 - npm i
@@ -26,9 +26,10 @@ Implementation, development
 - shop 
 - social network
 - CRM 
-- different assigment of your company
-  and its extremly important for us to deliver a strong product,
-thats creat value .......
-  
+- different assignments of your company
+  We focus on high  professionalism and quality, combined with the latest technologies
+on the market. It's extremely important for us to deliver a strong product, that
+creates value and meaning for our customers. Our approach to work is therefore quietly
+simple: our software solutions optimize business processes and minimize costs.  
   
 
